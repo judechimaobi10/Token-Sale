@@ -1,6 +1,5 @@
 # Token Sale
 
-# Token Sale Contract Repository
 
 This repository contains the Solidity code for a token sale contract, allowing for the deployment of a token sale on the Ethereum blockchain.
 
@@ -53,7 +52,7 @@ Security audits and considerations are documented in [Security.md](Security.md).
 
 ## Versioning
 
-Tag releases for version control. See [Releases](https://github.com/example/repo/releases) for the latest version.
+Tag releases for version control. See [Releases](https://github.com/judechimaobi10/repo/releases) for the latest version.
 
 ## Continuous Integration (CI)
 
