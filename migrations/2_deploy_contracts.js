@@ -1,7 +1,7 @@
 const BigToken = artifacts.require("./BigToken.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(BigToken);
+  deployer.deploy(BigToken, 1000000);
 };
 
 
