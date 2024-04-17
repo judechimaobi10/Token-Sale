@@ -9,18 +9,17 @@ The token sale contract facilitates the sale of tokens to participants in exchan
 
 - **Token Purchase**: Participants can purchase tokens by sending Ether to the contract.
 - **Token Distribution**: Tokens are distributed automatically upon purchase.
-- **Sale Management**: Admin functions to start, pause, and end the token sale.
+- **Sale Management**: Admin functions to start, and end the token sale.
 
 ## Contracts
 
-- **TokenSale.sol**: Main token sale contract.
-- **Token.sol**: ERC20 token contract.
-- **SafeMath.sol**: Library for safe mathematical operations.
+- **BigTokenSale.sol**: Main token sale contract.
+- **BigToken.sol**: ERC20 token contract.
 
 ## Tests
 
-- **TokenSale.test.js**: Testing script for token sale contract.
-- **Token.test.js**: Testing script for token contract.
+- **BigTokenSale.js**: Testing script for token sale contract.
+- **BigToken.js**: Testing script for token contract.
 
 ## Documentation
 
@@ -34,30 +33,12 @@ The token sale contract facilitates the sale of tokens to participants in exchan
 - **deploy.js**: Script for deploying contracts.
 - **utils.js**: Utility functions used in deployment scripts.
 
-## Resources
-
-- Images, diagrams, or any other supplementary materials used in documentation.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+No license.
 
 ## Contributing
 
 Contributions are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
-## Security
-
-Security audits and considerations are documented in [Security.md](Security.md).
-
-## Versioning
-
-Tag releases for version control. See [Releases](https://github.com/judechimaobi10/repo/releases) for the latest version.
-
-## Continuous Integration (CI)
-
-Continuous Integration is handled with [Travis CI](https://travis-ci.org/). See the [.travis.yml](.travis.yml) file for configuration.
-
-## Code of Conduct
-
-Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project. 
