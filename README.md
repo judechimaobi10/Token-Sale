@@ -10,6 +10,15 @@ The token sale contract facilitates the sale of tokens to participants in exchan
 - **Token Distribution**: Tokens are distributed automatically upon purchase.
 - **Sale Management**: Admin functions to start, and end the token sale.
 
+## Screenshot
+
+![Screenshot](scr_shot_loading.png)
+![Screenshot](scr_shot_loaded.png)
+![Screenshot](scr_shot_confirm_tnx.png)
+![Screenshot](scr_shot1.png)
+![Screenshot](scr_shot_test.png)
+![Screenshot](scr_shot_clientside.png)
+
 ## Installation
 
 ### Prerequisites
