@@ -11,13 +11,13 @@ The token sale contract facilitates the sale of tokens to participants in exchan
 - **Sale Management**: Admin functions to start, and end the token sale.
 
 ## Screenshot
+![scr_shot_loading](https://github.com/judechimaobi/Token-Sale/assets/32282619/a438c253-6ced-4caf-86d4-97a2e0b6e660)
+![scr_shot_loaded](https://github.com/judechimaobi/Token-Sale/assets/32282619/43701797-b7b0-4721-bae1-ac03821994ca)
+![scr_shot_confirm_tnx](https://github.com/judechimaobi/Token-Sale/assets/32282619/f6c5f590-b63b-4749-9b90-f1f64bbc66d7)
+![scr_shot1](https://github.com/judechimaobi/Token-Sale/assets/32282619/eb255d62-b704-4064-838e-f8b155ddeb54)
+![scr_shot_test](https://github.com/judechimaobi/Token-Sale/assets/32282619/d50a693b-0ecb-4649-819f-df6fdcef1d8a)
+![scr_shot_clientside](https://github.com/judechimaobi/Token-Sale/assets/32282619/ac12a884-9bc0-4ec6-8699-ec40bab6b18c)
 
-![Screenshot](scr_shot_loading.png)
-![Screenshot](scr_shot_loaded.png)
-![Screenshot](scr_shot_confirm_tnx.png)
-![Screenshot](scr_shot1.png)
-![Screenshot](scr_shot_test.png)
-![Screenshot](scr_shot_clientside.png)
 
 ## Installation
 
